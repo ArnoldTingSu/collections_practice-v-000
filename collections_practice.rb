@@ -31,4 +31,7 @@ def find_a(list)
     word[0] == "a"
   end
 end
+
+def sum_array(list)
+  
   
