@@ -35,7 +35,7 @@ end
 def sum_array(list)
   sum = 0
   list.each do |number|
-    sum + number
+    sum += number
   end
   sum
 end
