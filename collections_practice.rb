@@ -40,4 +40,9 @@ def sum_array(list)
   sum
 end
   
+def add_s(list)
+  list.each do |singular|
+    singular + "s"
+  end
+end
   
