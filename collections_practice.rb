@@ -46,5 +46,4 @@ def add_s(list)
   end
 end
 
-add_s(list)
   
