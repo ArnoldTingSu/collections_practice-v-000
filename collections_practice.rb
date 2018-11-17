@@ -27,7 +27,7 @@ def kesha_maker(list)
 end  
 
 def find_a(list)
-  list.find_all do |word|
+  list.select do |word|
     word[0] == "a"
   end
 end
