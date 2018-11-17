@@ -27,5 +27,5 @@ def kesha_maker(list)
 end  
 
 def find_a(list)
-  list.select.start_with? do
+  list.find_all do
   
