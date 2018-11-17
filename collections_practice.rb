@@ -45,4 +45,6 @@ def add_s(list)
     singular + "s"
   end
 end
+
+add_s(list)
   
