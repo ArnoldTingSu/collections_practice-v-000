@@ -33,5 +33,7 @@ def find_a(list)
 end
 
 def sum_array(list)
-  
+  sum = 0
+  list.each do |number|
+    sum + num
   
