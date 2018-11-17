@@ -43,7 +43,7 @@ end
 def add_s(list)
   list.collect do |singular|
     if list[1] == singular
-      list
+      singular
     else
     singular + "s"
     end
