@@ -46,6 +46,7 @@ def add_s(list)
       word
     else
     singular + "s"
+    end
   end
 end
 
