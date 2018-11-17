@@ -25,3 +25,7 @@ def kesha_maker(list)
     letter[2] = "$"
   end
 end  
+
+def find_a(list)
+  list.select.start_with? do
+  
