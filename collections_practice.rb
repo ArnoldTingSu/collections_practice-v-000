@@ -42,7 +42,7 @@ end
   
 def add_s(list)
   list.each do |singular|
-    {singular + "s"}
+    singular + "s"
   end
 end
   
