@@ -41,7 +41,7 @@ def sum_array(list)
 end
   
 def add_s(list)
-  list.each do |singular|
+  list.collect do |singular|
     singular + "s"
   end
 end
